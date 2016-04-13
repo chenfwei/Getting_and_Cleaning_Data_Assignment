@@ -1,6 +1,6 @@
 # Code Book
 
-A sample of the data set structure:
+The following is a sample of the data set structure:
 
 | Subject  | Activity            | Variable X    | Variable Y... |
 |:---------|:--------------------|:--------------|:--------------|
@@ -16,7 +16,7 @@ A sample of the data set structure:
 ## Transformations made to clean up the data
 
 Variable names were made syntactically valid with the 'make.names()' function, from the 'base' R package.
-From all the variables present in the original data set, only those related to mean and standard deviation were selected in the final set.
+From all the variables present in the original data set, only those related to the mean and standard deviation were selected in the final set.
 
 ## Summary choices made
 
